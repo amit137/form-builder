@@ -1,7 +1,7 @@
 // src/App.js
 import React from 'react';
 import './App.css';
-import FormBuilder from './components/FormBuilder';
+import FormBuilder from './components/formbuilder/FormBuilder';
 
 function App() {
   return (
