@@ -191,7 +191,6 @@ const FormBuilder = () => {
                           startIcon={<DeleteIcon />}
                           onClick={() => removeOption(index, optionIndex)}
                         >
-                          X
                         </Button>
                       </div>
                     )
